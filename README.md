@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java, C++, html&css, SQL
+- 🌱 I’m currently learning Java, C++, html&css, SQL, React, C#
 
 <!--
 **FlaviuBodea/FlaviuBodea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
